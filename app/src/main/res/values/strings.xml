@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApiConnectDesign</string>
+
+    //bottom navigation title
+    <string name="mn_home">Home</string>
+    <string name="mn_provinces">Provinces</string>
+    <string name="mn_search">Search</string>
+    <string name="mn_account">Account</string>
+    <string name="mn_more">More</string>
+</resources>

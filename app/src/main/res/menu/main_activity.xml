@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_mnHome"
+        android:icon="@drawable/ic_action_home"
+        android:title="@string/mn_home"
+        />
+    <item
+        android:id="@+id/id_mnProvinces"
+        android:icon="@drawable/ic_action_provinces"
+        android:title="@string/mn_provinces"
+        />
+    <item
+        android:id="@+id/id_mnSearch"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/mn_search"
+        />
+    <item
+        android:id="@+id/id_mnAccount"
+        android:icon="@drawable/ic_action_profiel"
+        android:title="@string/mn_account"
+        />
+    <item
+        android:id="@+id/id_mnMore"
+        android:icon="@drawable/ic_action_more"
+        android:title="@string/mn_more"
+        />
+
+</menu>
